@@ -22,5 +22,5 @@ Tools Used:
 
 Power BI Desktop DAX for custom measures Power Query for data transformation,SharePoint NIntex forms for gathering Data
 
-Screenshot /Demo Sales Promotion analysis: https://github.com/aditya502423/sales_dashbaord/blob/main/Sales%20Promotion%20Analysis.png
+Screenshot /Near Loss Investigation Dashboard: https://github.com/aditya502423/nli_dashboard/blob/main/nli_dashboard.jpg
 
